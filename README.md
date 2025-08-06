@@ -1,2 +1,2 @@
-# M-todos-Estad-sticos
-## Lic. IF
+# Uso de metodos estadisticos 
+# licenciatura en Ingeniaria Forestal 
