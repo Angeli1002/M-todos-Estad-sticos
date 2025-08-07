@@ -3,7 +3,7 @@
 
 Repositorio de metodos estadisticos del año 2025 
 
-##Contenido
+## Contenido
 
 06/08/2025: Inicio de curso de métodos estadísticos.
 + preparar mi area de trabajo 
