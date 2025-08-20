@@ -12,5 +12,6 @@ Repositorio de metodos estadisticos del año 2025
 07/05/25/2025: sincronizar Github con mi projecto 
   + crear version control
   + bases para un uso eficiente en R
-  + Modificacion de readme 
+  + Modificacion de readme
+  
   
