@@ -14,3 +14,4 @@ Repositorio de metodos estadisticos del año 2025
   + bases para un uso eficiente en R
   + Modificacion de readme
   
+  
