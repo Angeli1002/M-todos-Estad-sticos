@@ -13,3 +13,4 @@ Repositorio de metodos estadisticos del año 2025
   + crear version control
   + bases para un uso eficiente en R
   + Modificacion de readme 
+  
