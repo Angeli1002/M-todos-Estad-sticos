@@ -2,6 +2,7 @@
 # FLOR ANGELI CRUZ ROSALES
 # Fecha: 01/10/2025
 # Lab.7
+# Lab.7...
 # ------------------------------------------------------------------------------
 
 options(repos = c(CRAN = "https://cloud.r-project.org"))
